@@ -1,0 +1,80 @@
+Ultimato:
+  title: "Vigadores Ultimato"
+  status: "Disponível"
+  year: 2019
+  release_date: "24/07/2019"
+  cast: ["Robert Dowey Jr", "Chris Evans", "Brie Larson", "Scarlet Johansson"]
+  overview: "Após Thanos eliminar metade do universo, os vingadores terão que resolver está treta"
+  cover: "ultimato.jpg"
+
+Spider:
+  title: "Homem Aranha Longe de Casa"
+  status: "Pré-venda"
+  year: 2019
+  release_date: "04/07/2019"
+  cast: ["Tom Holand", "Samuel L. Jackson", "Marisa Tomei"]
+  overview: "Peter está em uma viagem"
+  cover: "spider.jpg"
+
+Jocker:
+  title: "Coringa"
+  status: "Em breve"
+  year: 2019
+  release_date: "04/07/2019"
+  cast: ["Joaquim Phoenix"]
+  overview: "O comediantes falido"
+  cover: "coringa.jpg"
+
+Deadpool2:
+  title: "Deadpool2"
+  status: "Disponível"
+  year: 2018
+  release_date: "04/07/2018"
+  cast: [	"Ryan Reynolds" , "Josh Brolin", "Zazie Beetz"]
+  overview: "O supersoldado Cable vem do futuro com a missão de assassinar o jovem mutante Russel e o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo."
+  cover: "dp2.jpg"
+
+Dpz:
+  title: "Dragonball Evolution"
+  status: "Disponível"
+  year: 2009
+  release_date: "04/07/2018"
+  cast: [	"Justin Chatwin", "James Marsters", "Jamie Chung"]
+  overview: "A história acompanha Goku, um jovem adotado e treinado pelo mestre das artes marciais e seu avô Gohan."
+  cover: "dbz.jpg"
+
+no_title:
+  title: ""
+  status: "Disponível"
+  year: 2019
+  release_date: "04/07/2019"
+  cast: [""]
+  overview: ""
+  cover: ""
+
+no_status:
+  title: "teste"
+  status: ""
+  year: 2019
+  release_date: "04/07/2019"
+  cast: [""]
+  overview: ""
+  cover: ""
+
+no_year:
+  title: "teste"
+  status: "Disponível"
+  year: ""
+  release_date: "04/07/2019"
+  cast: [""]
+  overview: ""
+  cover: ""
+
+no_date:
+  title: "teste"
+  status: "Disponível"
+  year: 2019
+  release_date: ""
+  cast: [""]
+  overview: ""
+  cover: ""
